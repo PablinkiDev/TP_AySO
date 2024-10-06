@@ -1,2 +1,1 @@
-“Usuario=main”
-model name	: AMD Ryzen 5 5600 6-Core Processor
+Usuario=vagrant
