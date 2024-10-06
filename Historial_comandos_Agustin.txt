@@ -1,0 +1,34 @@
+whoami
+group vagrant
+clear
+id vagrant 
+clear
+whoami
+id vagrant
+cat /proc/cpuinfo 
+clear
+sudo apt install neofetch
+sudo apt update && sudo apt upgrade
+sudo apt install neofetch
+vagrant halt
+neofetch
+clear
+ls
+cd repogit/
+ls
+cd TP_AySO/
+ls
+clear
+cat <<EOF > README.md 
+Alumno: Agustin Pablo Fernandez
+Division: 315
+Turno: Noche
+EOF
+
+cat README.md 
+git add .
+git commit -m "ADD: Información de estudiante en el README.md"
+git pushh
+git push
+clear
+history -a
