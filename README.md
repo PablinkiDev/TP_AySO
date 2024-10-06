@@ -1,3 +1,3 @@
-Alumno: Agustín Pablo Fernandez
-División: 315
+Alumno: Agustin Pablo Fernandez
+Division: 315
 Turno: Noche
